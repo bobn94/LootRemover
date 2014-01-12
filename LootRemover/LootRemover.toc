@@ -1,0 +1,8 @@
+## Interface: 33500
+## Title: LootRemover
+## Author: Bobn94
+## Dependencies: 
+## OptDeps: 
+## SavedVariables: 
+
+LootRemover.lua
